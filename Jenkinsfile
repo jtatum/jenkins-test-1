@@ -1,4 +1,4 @@
-# using multibranch
+// using multibranch
 node {
     stage "checkout"
     checkout scm
